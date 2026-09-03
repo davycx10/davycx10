@@ -1,14 +1,12 @@
 <p align="center">
   <a href="https://github.com/davycx10">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=634&text=Hello!%20I'm%20davycx" alt="Hey I&#39;m davycx" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=538&text=Hey%20I'm%20davycx" alt="Hey I&#39;m davycx" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=900&height=44&lines=The%20world%20is%20full%20of%20mysteries%2C%20and%20that's%20what%20makes%20it%20interesting;It%20works%20on%20my%20machine" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=900&height=44&lines=It%20works%20on%20my%20machine;The%20world%20is%20full%20of%20mysteries%2C%20and%20that's%20what%20makes%20it%20interesting" alt="Typing headlines" />
 </p>
-
-
 
 ### 📊 GitHub Stats
 
