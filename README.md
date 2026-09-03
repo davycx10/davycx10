@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/davycx10">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=634&text=Hello!%20I'm%20davycx" alt="Hello! I&#39;m davycx" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5b6573&fontSize=54&height=90&width=634&text=Hello!%20I'm%20davycx" alt="Hey I&#39;m davycx" />
   </a>
 </p>
 
@@ -8,11 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=900&height=44&lines=The%20world%20is%20full%20of%20mysteries%2C%20and%20that's%20what%20makes%20it%20interesting;It%20works%20on%20my%20machine" alt="Typing headlines" />
 </p>
 
-### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/davycx-1303802a8" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 
 ### 📊 GitHub Stats
 
